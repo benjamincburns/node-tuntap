@@ -1,0 +1,29 @@
+{
+    "name" : "tuntap",
+    "version" : "0.0.1",
+    "description" : "A node module for managing TUN/TAP virtual network interfaces on linux.",
+    "author" : "Ben Burns <benjamin.c.burns@gmail.com>",
+    "keywords" : [
+        "ethernet",
+        "network",
+        "networking",
+        "tunneling",
+        "tunnel",
+        "tun",
+        "tap",
+        "tuntap",
+        "vpn"
+    ],
+    "license" : "MIT",
+    "engines": {
+        "node" : ">= 0.10.0"
+    },
+    "main" : "./lib/tuntap.js",
+    "dependencies" : {
+        "ioctl" : "0.0.4",
+        "ref" : "",
+        "ref-struct" : "",
+        "ref-union" : "",
+        "ref-array" : ""
+    }
+}
