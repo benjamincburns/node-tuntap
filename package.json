@@ -24,6 +24,7 @@
         "ref" : "",
         "ref-struct" : "",
         "ref-union" : "",
-        "ref-array" : ""
+        "ref-array" : "",
+        "errno" : "0.1.x"
     }
 }
